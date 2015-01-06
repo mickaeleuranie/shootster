@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Knewave);
+body{margin:0;padding:0;background:#000;font-family: 'Knewave', cursive;}
+canvas{display:block;margin:0 auto;background:#fff}
+/*body{text-align: center;} IE*/
+/*div.menu{margin-left: auto;margin-right: auto;} Firefox & co */
+div.menu{background-color:#fff;text-align:center;font-size:100%;}
+div.menu_item{color:#036;}
+h1.title_main{position:fixed;top:-25px;-webkit-transform:rotate(-25deg);letter-spacing:8px;font-size:3em;}
+h1.title_main,
+h2 {
+	font-weight: normal;
+}
